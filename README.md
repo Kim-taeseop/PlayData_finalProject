@@ -29,7 +29,11 @@ PC방에서 사용하는 기능을 사용하는 사이트입니다.
 
 ## ⚙️기술 스택
 <img width="949" alt="Screenshot 2023-12-20 at 7 38 41 PM" src="https://github.com/rlojun/mzpc/assets/137598528/9a5cd215-6c2f-4059-ab1b-43e35b3cf646">
+<br>
 
+## ✨ AWS 아키텍처
+![image](https://github.com/Kim-taeseop/PlayData_finalProject/assets/137260250/b6acb402-2878-4a1b-9be6-85c5d64c5c4f)
+<br>
 
 ## 🌱 ERD
 
@@ -51,8 +55,7 @@ PC방에서 사용하는 기능을 사용하는 사이트입니다.
 * mileage_info : 마일리지 적립, 사용을 파악하기 위한 테이블
 * chat_message : Q&A 채팅 관련 테이블
 
-
-
+---
 
 ## 💡주요 기능
 
@@ -79,4 +82,9 @@ PC방에서 사용하는 기능을 사용하는 사이트입니다.
 ##### 5. 문의하기
 <img width="1120" alt="image" src="https://github.com/rlojun/mzpc/assets/137135122/db76a29c-aa53-4909-9dd3-d3e82a7650ff">
 
+---
 
+## 📺 시연 영상
+
+[![image](https://github.com/Kim-taeseop/PlayData_finalProject/assets/137260250/58704bec-89c1-487f-a4c5-cc6f1cdc69f9)
+](https://www.youtube.com/watch?v=4lTwYxdbzKc)
